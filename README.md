@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Komal Bakshi</h1>
 <h3 align="center">Coffee: Fueling My Code, One Cup at a Time!.</h3>
 
-- 🔭 I’m currently working on **API integration for Google Wallet Integration**
+- 🔭 I’m currently working on **API development for Google Wallet Integration**
 
 - 🌱 I’m currently learning **AWS, System Design, Algorithms**
 
