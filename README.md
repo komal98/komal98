@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Backend Engineering, Payment Technology**
 
-- 📫 How to reach me **kbakshi@ucdavis.edu**
+- 📫 How to reach me **kbakshi98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
