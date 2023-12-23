@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋! I'm Komal Bakshi</h2>
-
+<h2 align="left">Hi 👋! I'm Komal Bakshi</h2>
+<p align="left">Coffee: Fueling My Code, One Cup at a Time!.</p>
 ###
 
 <div align="center">
@@ -74,7 +74,5 @@
 ###
 
 <br clear="both">
-
-<p align="center">Coffee: Fueling My Code, One Cup at a Time!.</p>
 
 ###
