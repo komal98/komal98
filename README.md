@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Komal Bakshi</h2>
-
+<p>I am a Software Engineer and I love using software to solve interesting problems.</p>
 
 <div align="center">
   <img height="100" src="https://media.giphy.com/media/NCpVljfcZTKa4/giphy.gif"  />
