@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Komal Bakshi</h2>
-<p>I am a Software Engineer and I love using software to solve interesting problems.</p>
+<p>Hi I am Komal, as a software engineer using software to solve interesting problems is one of the fascinating things I really enjoy. I like collabertaing and brainstorming ideas. Beyond the world of code, you'll find me leading an active lifestyle, immersing myself in sports. I'm also an ardent bookworm, always on the lookout for a compelling read.</p>
 
 <div align="center">
   <img height="100" src="https://media.giphy.com/media/NCpVljfcZTKa4/giphy.gif"  />
