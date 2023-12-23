@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! I'm Komal Bakshi</h2>
 
-###
 
 <div align="center">
   <img height="100" src="https://media.giphy.com/media/NCpVljfcZTKa4/giphy.gif"  />
@@ -58,7 +57,7 @@
 </div>
 
 <br clear="both">
-###
+
 <h3 align="left">Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=komal98&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
