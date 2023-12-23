@@ -7,6 +7,7 @@
 </div>
 
 ###
+<h3 align="left">Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=komal98&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=komal98&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -26,7 +27,7 @@
 ###
 
 ###
-<h3 align="left">Some of the technologies I am familiar with</h3>
+<h3 align="left">Technologies Used</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="11" />
