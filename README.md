@@ -69,7 +69,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/komal98/komal98/blob/output/snake.svg)
+![Snake animation](https://github.com/komal98/komal98/output/snake.svg)
 
 ###
 
