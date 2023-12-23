@@ -88,7 +88,3 @@
 </div>
 
 ###
-
-<img src="https://github.com/komal98/komal98/blob/output/snake.svg" alt="Snake animation" />
-
-###
