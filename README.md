@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hey there! I'm Komal, a software engineer who enjoys using code to tackle cool problems. When I'm not immersed in the tech world, you'll catch me living an active lifestyle, diving into all kinds of sports. I'm a total bookworm too—constantly on the lookout for a captivating read. Anything interesting on your radar lately? Let's talk!</p>
+<p align="left">Hey there! I'm Komal, a software engineer who enjoys using code to build data driven softwares.When I'm not immersed in the tech world, you'll catch me living an active lifestyle, diving into all kinds of sports. I'm a total bookworm too—constantly on the lookout for a captivating read. Anything interesting on your radar lately? Let's talk!</p>
 
 ###
 
